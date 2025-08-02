@@ -54,7 +54,7 @@ El sistema normaliza los valores numéricos de los productos (ventas, stock rati
 ### 1. Clonar el Repositorio
 
 ```bash
-git clone <repository-url>
+git clone git@github.com:thesaintve/product_catalog.git
 cd prueba-tecnica02
 ```
 
