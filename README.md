@@ -274,14 +274,5 @@ sequenceDiagram
 
 ```
 
-## Consideraciones de Rendimiento
-
-- **Caching**: Considera implementar cache para las estadísticas de normalización
-- **Lazy Loading**: Las estadísticas se calculan solo cuando son necesarias
-- **Streaming**: Uso de Java Streams para procesamiento eficiente
 
 
-
-## Licencia
-
-Este proyecto está bajo la licencia MIT.
